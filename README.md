@@ -29,6 +29,8 @@ Modelagem de contas e ativos financeiros baseada em diagramas UML.
 
 Para clonar e executar os scripts:
 
-```bash
-git clone [https://github.com/ana0mrts/code-POO-Python.git](https://github.com/ana0mrts/code-POO-Python.git)
+git clone https://github.com/ana0mrts/code-POO-Python.git
 cd code-POO-Python
+
+Entre na pasta do projeto desejado e execute o ficheiro principal:
+python main.py
